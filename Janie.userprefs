@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\roll.cs">
+    <Files>
+      <File FileName="Assets\invisible.cs" Line="18" Column="36" />
+      <File FileName="Assets\hi.cs" Line="1" Column="1" />
+      <File FileName="Assets\cam.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Environment\Water (Basic)\Scripts\WaterBasic.cs" Line="1" Column="1" />
+      <File FileName="Assets\roll.cs" Line="23" Column="35" />
+      <File FileName="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
